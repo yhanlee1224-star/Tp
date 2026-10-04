@@ -1,0 +1,10 @@
+name: SulJab
+version: 1.0.0
+main: kr.suljab.SulJabPlugin
+api-version: '26.2'
+description: Ep.1 술래잡기
+commands:
+  게임:
+    description: 술래잡기 게임 명령어
+    usage: /게임 <시작|끝|시간>
+    aliases: [game]
